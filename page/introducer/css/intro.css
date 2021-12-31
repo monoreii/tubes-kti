@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: montserrat, arial;
+}
+main{
+    padding: 40px 0;
+    width: 100%;
+    
+}
+.p-color{
+    color: #5462b1;
+}
+.strong-header{
+    color:#5462b1 ;
+    font-size: 20px;
+}
+
+.num{
+    list-style:decimal ;
+    padding: 12px;
+}

@@ -1,0 +1,23 @@
+.foot-nav{
+    padding: 0 20px 0 0;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+footer{
+    background: #5462b1;
+    color: white;
+}
+
+#footer-caption{
+    padding: 10px 60px 0 0;
+}
+
+.footer{
+    background: #3d4886;
+}
+.nav-item > a > i{
+    font-size: 36px;
+}

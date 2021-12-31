@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: montserrat, arial;
+}
+
+
+.col > h3 > a{
+    text-decoration: none;
+    color: #5462b1;
+}
+#card-introducer > .row > .col > a{
+    text-decoration: none;
+}
+.col > h3{
+    font-size: 21px;
+}
+
+.bor-right{
+    border-right: 1px solid black;
+}
+
+main{
+    background: rgba(240, 240, 240, 0.288);   
+}
+
+.bg-primary{
+    background-image: url('/image/alfatih_foto_1.JPG');
+    width: 100%;
+    height: 500px;
+    padding: 50px;
+    box-sizing: border-box;
+    background-size: cover;
+}
+.box{
+    margin: auto;
+    padding: 50px;
+    width: 800px;
+    background: rgb(204, 204, 204);
+    background: rgba(204, 204, 204, 0.5);
+}
+
+@media only screen and (max-width: 900px){
+    .box{
+        width: 300px;
+        padding: 15px;
+    }
+}

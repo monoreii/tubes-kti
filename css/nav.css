@@ -1,0 +1,42 @@
+.cp{
+    padding: 0 10px;
+    color: white;
+    background: #5462b1;
+}
+.bor-right{
+    border-right: 1px solid white;
+}
+.cp > ul > li{
+    padding: 5px 10px;
+}
+.cp > ul > li > a{
+    color: white;
+}
+td{
+    padding: 0 10px;
+}
+#branding{
+    display: block;
+}
+#text-header{
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+    font-family: playfair-display; 
+}
+nav > ul > li{
+    padding: 12px 30px;
+}
+nav{
+    background: #5462b1;
+}
+
+nav > ul > li > .nav-link{
+    color: white;
+}
+.logo > img{
+    position:relative ;
+}
+.nav-item > a{
+    color: black;
+}
